@@ -1,0 +1,10 @@
+[   35.772161] Bluetooth: BNEP filters: protocol multicast
+[   35.772173] Bluetooth: BNEP socket layer initialized
+[   36.583312] vboxdrv: module verification failed: signature and/or required key missing - tainting kernel
+[   36.595605] vboxdrv: Found 2 processor cores
+[   36.628118] vboxdrv: TSC mode is Invariant, tentative frequency 1599947952 Hz
+[   36.628124] vboxdrv: Successfully loaded version 5.0.18_Ubuntu (interface 0x00240000)
+[   36.773912] VBoxNetFlt: Successfully started.
+[   36.794391] VBoxNetAdp: Successfully started.
+[   36.954593] VBoxPciLinuxInit
+[   37.084642] vboxpci: IOMMU not found (not registered)
